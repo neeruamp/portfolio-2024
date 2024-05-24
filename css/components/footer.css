@@ -1,0 +1,59 @@
+.footer {
+	background: black;
+	font-family: 'Quicksand', sans-serif;
+	display: flex;
+	justify-content: space-between;
+	flex-grow: 1;
+	padding: 8px;
+	margin-top: 100px;
+	position: center;  
+}
+
+.footer h2 {
+	color: white;
+	font-size: 17px;
+}
+
+.footer h3 {
+	color: white;
+	font-size: 15px;
+	font-style: italic; 
+}
+
+
+.footer a {
+	text-decoration: none;
+	color: white;
+}
+
+.footer a:hover {
+	color: white;
+}
+
+.footer p {
+	color: white;
+	font-size: 14px;
+}
+
+#liste-navigation {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+	margin-left: 50px;
+}
+
+#liste-reseaux-sociaux {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+
+li {
+	margin-bottom: 15px;
+	font-size: 16px;
+}
+
+.footer-sommaire h2 {
+	margin-left: 50px;
+}
